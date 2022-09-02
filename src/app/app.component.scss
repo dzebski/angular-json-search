@@ -1,0 +1,16 @@
+mat-form-field {
+  padding: 1em;
+  width: 500px;
+}
+
+.user__name,
+.user__surename,
+.user__email {
+  color: grey;
+  font-size: 0.8em;
+  margin-right: 1em;
+}
+
+.user__email {
+  text-decoration: underline;
+}
